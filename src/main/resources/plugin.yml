@@ -1,0 +1,4 @@
+name: Orecraft
+version: @version@
+main: ocm.orecraft.Orecraft
+authors: [zuilinqwq]
